@@ -1,0 +1,63 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "firstName": "tst-usr-fst-101",
+      "lastName": "tst-usr-lst-101",
+      "email": "tstusr101@mail.com",
+      "companyId": 1
+    },
+    {
+      "id": 2,
+      "firstName": "tst-usr-fst-102",
+      "lastName": "tst-usr-lst-102",
+      "email": "tstusr102@mail.com",
+      "companyId": 3
+    },
+    {
+      "id": 3,
+      "firstName": "tst-usr-fst-103",
+      "lastName": "tst-usr-lst-103",
+      "email": "tstusr103@mail.com",
+      "companyId": 2
+    },
+    {
+      "id": 4,
+      "firstName": "tst-usr-fst-104",
+      "lastName": "tst-usr-lst-104",
+      "email": "tstusr104@mail.com",
+      "companyId": 3
+    },
+    {
+      "firstName": "tst-usr-fst-105",
+      "lastName": "tst-usr-lst-105",
+      "email": "tstusr105@mail.com",
+      "companyId": 3,
+      "id": 5
+    },
+    {
+      "firstName": "tst-usr-fst-106",
+      "lastName": "tst-usr-lst-106",
+      "email": "tstusr106@mail.com",
+      "companyId": 1,
+      "id": 6
+    }
+  ],
+  "companies": [
+    {
+      "id": 1,
+      "name": "Microsoft",
+      "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Molestiae, sequi. Quaerat, minima. Vitae magni deserunt sit quod odit! Voluptate saepe facere repellat nobis modi aliquid laboriosam minus, ullam nostrum doloremque ea commodi tempore exercitationem cupiditate dicta ducimus perferendis deleniti. Blanditiis."
+    },
+    {
+      "id": 2,
+      "name": "Apple",
+      "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Molestiae, sequi. Quaerat, minima. Vitae magni deserunt sit quod odit! Voluptate saepe facere repellat nobis modi aliquid laboriosam minus, ullam nostrum doloremque ea commodi tempore exercitationem cupiditate dicta ducimus perferendis deleniti. Blanditiis."
+    },
+    {
+      "id": 3,
+      "name": "Google",
+      "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Molestiae, sequi. Quaerat, minima. Vitae magni deserunt sit quod odit! Voluptate saepe facere repellat nobis modi aliquid laboriosam minus, ullam nostrum doloremque ea commodi tempore exercitationem cupiditate dicta ducimus perferendis deleniti. Blanditiis."
+    }
+  ]
+}
